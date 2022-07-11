@@ -1,0 +1,61 @@
+.use-inline{
+    display: inline-flex;
+    align-items: center;
+    border-radius: 5px;
+    margin: 5px;
+    padding: 15px;
+}
+
+.center-text{
+    justify-content: center;
+}
+
+.heading {
+    background-color: black !important;
+    color: white;
+}
+
+.date{
+    background-color: orange;
+    /*width: 130px;*/
+}
+
+.description{
+    background-color: skyblue;
+    /*width: 250px;*/
+}
+
+.price{
+    background-color: purple;
+    /*width: 100px;*/
+}
+
+.payeeOne{
+    background-color: cyan;
+    /*width: 120px;*/
+}
+
+.payeeTwo{
+    background-color: aquamarine;
+    /*width: 120px;*/
+}
+
+.total-box{
+    /*width: 350px;*/
+}
+
+.final-amount-box{
+    /*width: 100px;*/
+}
+
+.sky-blue-bg{
+    background-color: skyblue;
+}
+
+.green-bg{
+    background-color: lightgreen;
+}
+
+.red-bg{
+    background-color: red;
+}
